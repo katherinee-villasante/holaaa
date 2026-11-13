@@ -1,6 +1,6 @@
 #segundo
 Repositorio de prueba
 
-#algun text0 Nuevo
+#algun texto Nuevo
 
-otro texto
+otro texto oh
